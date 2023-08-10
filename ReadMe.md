@@ -1,1 +1,2 @@
-This project was created using raku
+This project was created using raku.
+There are multiple test files in the project.
